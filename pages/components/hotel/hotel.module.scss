@@ -1,0 +1,37 @@
+@import "./../../../styles/abstracts/themeSrc";
+@import "./../../../styles/components/buttons";
+.hotelBooking {
+  .hotelBookingContainer {
+    @include Position(relative);
+    @include borderRadius(7px);
+    .frontPart {
+      @include borderRadius(7px);
+      background: linear-gradient(90deg, #05b9f8 24.32%, #201e53 84.3%);
+      @include Display(flex);
+      @include JustifyContent(center);
+      @include flexDirection(row);
+      min-height: 100px;
+      .content {
+        @include Padding(20px);
+        h3 {
+          font-weight: $fontWeight700;
+          margin-bottom: 5px;
+        }
+        p {
+          color: $whiteColor;
+          margin-bottom: 10px;
+        }
+      }
+    }
+  }
+  .flexRow {
+    @include breakPoints(767px) {
+      @include flexDirection(column);
+    }
+    .mobileWidth {
+      @include breakPoints(767px) {
+        @include Width(100%);
+      }
+    }
+  }
+}

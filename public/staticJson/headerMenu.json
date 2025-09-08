@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "link":"/",
+        "linkText":"Home",
+        "icon":"faHome"
+    },
+    {
+        "id":2,
+        "link":"/about",
+        "linkText":"About Us",
+        "icon":"faInfo"
+    },
+    {
+        "id":3,
+        "link":"/cab-services",        
+        "linkText":"Car Rental",
+        "icon":"faCar"
+    },
+    {
+        "id":4,
+        "link":"/boat-ride",
+        "linkText":"Boat Ride",
+        "icon":"faShip"
+    },
+    {
+        "id":5,
+        "link":"/hotel-booking",
+        "linkText":"Hotel Booking",
+        "icon":"faHotel"
+    },
+    {
+        "id":6,
+        "link":"/blog",
+        "linkText":"Blog",
+        "icon":"faBlog"
+    },
+    {
+        "id":7,
+        "link":"/contact",
+        "linkText":"Contact Us",
+        "icon":"faPhone"
+    }
+]

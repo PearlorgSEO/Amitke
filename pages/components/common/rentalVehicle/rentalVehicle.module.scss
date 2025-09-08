@@ -1,0 +1,66 @@
+@import "./../../../../styles/abstracts/themeSrc";
+@import "./../../../../styles/components/buttons";
+
+.rentalVehicle {
+  h2 {
+    margin-bottom: 0.5rem;
+  }
+  .flex {
+    @include breakPoints(640px) {
+      @include flexDirection(column);
+    }
+  }
+  .bgWhite {
+    @include borderRadius(45px);
+    background: linear-gradient(225deg, rgb(240, 240, 255) 0%, rgb(227, 210, 255) 99%);
+    @include Position(relative);
+    overflow: hidden;
+    @include Padding(40px);
+    text-align: $textCenter;
+    @include breakPoints(992px) {
+      @include Padding(20px);
+    }
+    img {
+      transition: all 1s;
+      @include breakPoints(767px) {
+        @include Width(100%);
+      }
+      &:hover {
+        transform: scale(1.1);
+        transition: all 1s;
+        filter: grayscale(1);
+      }
+    }
+    h3{
+      @include Padding(15px);
+      padding-top: 0;
+      font-size: 35px;
+      font-weight: $fontWeight700;
+    }
+    h4{
+      font-size: 25px;
+      font-weight: $fontWeight500;
+    }
+    a {
+      margin: 0px auto 15px;
+      @include Width(150px);
+      @include Display(block);
+      @include borderRadius(4px);
+    }
+  }
+  .mobileFullWidth {
+    @include breakPoints(640px) {
+      @include Width(100%);
+    }
+    &:nth-child(2){
+      .bgWhite{
+        background: linear-gradient(225deg, rgb(255, 237, 254) 0%, rgb(255, 210, 210) 99%);
+      }
+    }
+    &:nth-child(3){
+      .bgWhite{
+        background: linear-gradient(135deg, rgb(253, 252, 251) 0%, rgb(226, 209, 195) 100%);
+      }
+    }
+  }
+}

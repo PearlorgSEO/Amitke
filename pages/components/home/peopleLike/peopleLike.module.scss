@@ -1,0 +1,39 @@
+@import "./../../../../styles/abstracts/themeSrc";
+
+.peopleLike{
+    .flex{
+        flex-wrap:wrap;
+        @include breakPoints(767px){
+            @include flexDirection(column);
+        }
+    }
+    strong{
+        color: $primaryColor;
+    }
+    .circle{
+        @include Position(relative);
+        @include breakPoints(767px){
+            @include Width(100%);
+        }
+        &:before{
+            content: '';
+            @include Display(block);
+            @include Width(8px);
+            @include Height(8px);
+            @include borderRadius(8px);
+            background-color: $secondaryColor;
+            @include Position(absolute);
+            left: 20px;
+            top: 8px;
+        }
+        h3,h4{
+            margin-bottom: 0.5rem;
+        }
+        h4{
+            font-weight: $fontWeight400;
+        }
+        p{
+            font-size: inherit;
+        }
+    }
+}

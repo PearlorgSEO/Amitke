@@ -1,0 +1,48 @@
+{
+  "heading": {
+    "heading": "Why People Like Us?",
+    "para":"We are overwhelmed with love and trust shown by our customers. Learn why"
+  },
+  "content": [
+    {
+      "id": 1,
+      "title": "Best Price Guarantee",
+      "para": "<strong>Get the best deals on all our services</strong>! Book your tour package, rental cab, hotels, and boat ride in Varanasi, Ayodhya, Prayagraj, and Bodhgaya. Our prices are competitive and ensure affordable cab booking charges. Check the price with us before booking."
+    },
+    {
+      "id": 2,
+      "title": "Best Local to Outstation Cabs",
+      "para": "<strong>Travel comfortably and safely with our local and outstation cabs</strong>! From professional, trusted, friendly <strong>Kaptaans</strong> with local and outstation expertise to economy & high-end taxis that offer ample leg and boot space for you and your luggage, we all have for the trip."
+    },
+    {
+      "id": 3,
+      "title": "Tour Plan Consultation",
+      "para": "<strong>Plan your perfect spiritual journey with our expert tour consultation</strong>! Explore the sacred cities of Varanasi, Ayodhya, Prayagraj, and Bodhgaya, each rich in history and devotion. Let us curate a seamless itinerary for a memorable and enriching pilgrimage experience."
+    },
+    {
+        "id": 4,
+        "title": "Fast & Easy Booking",
+        "para": "<strong>Enjoy a smooth booking with us</strong>! You can do it swiftly if you book a tour package, rental cabs, hotels or any other services. Book online through our website or call the given number (Contact Us page) for fast and easy booking. "
+      },
+      {
+        "id": 5,
+        "title": "Multiple Pickup Locations",
+        "para": "<strong>You can choose the nearest pickup location according to your convenience</strong>! Across Varanasi, we have multiple pickup locations where you can stop by your cab. You can pick up your location by booking your taxi online or by phone. "
+      },
+      {
+        "id": 6,
+        "title": "Morning & Evening Boat Rides",
+        "para": "<strong>Witness the magic of Varanasi with a serene boat ride on the Ganges</strong>! Mornings offer a breathtaking sunrise, reflecting divine hues on the water, while evenings mesmerise with the glowing Ganga Aarti, creating an unforgettable spiritual and cultural experience on the sacred river."
+      },
+      {
+        "id": 7,
+        "title": "Across Multiple Cities",
+        "para": "<strong>Want to go to Ayodhya, Prayagraj or Bodhgaya from Varanasi, look nowhere</strong>! We have a wide range of cabs and taxis like Swift Dzire, Maruti Ertiga, Maruti WagonR, and more for your trip. Make your travel comfortable and enjoyable with us."
+      },
+      {
+        "id": 6,
+        "title": "24/7 Customer Support",
+        "para": "<strong>24*7 Customer Support Available</strong>! If you have any queries regarding booking, pickup, or any aspect of our cab services, our 24/7 Customer Support is always ready to assist you. Get prompt resolution of your requests for a smooth and hassle-free experience."
+      }
+  ]
+}

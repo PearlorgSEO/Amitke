@@ -1,0 +1,44 @@
+{
+  "topSightSeeing": [
+    {
+      "topSightSeeingInfo": [
+        {
+          "id": 1,
+          "heading": "Varanasi Package- Get Up to Rs. 1000 Off!",
+          "image": "varanasi.webp",
+          "alt": "The front side of the old Varanasi junction",
+          "type": "2 Days / 4 Nights",
+          "para": "Here are the two-day tour package details",
+          "link": "varanasi-tour-package"
+        },
+        {
+          "id": 2,
+          "heading": "Ayodhya Tour Package- Get Rs.1000 Off!",
+          "image": "ayodhya.webp",
+          "alt": "A heritage structure with two lions on the left and right sides of the entrance, respectively.",
+          "type": "2 Days / 4 Nights",
+          "para": "Here are the two-day tour package details",
+          "link": "ayodhya-tour-package"
+        },
+        {
+          "id": 3,
+          "heading": "Prayagraj Tour Package- Get Rs. 1000 Off!",
+          "image": "prayagraj.webp",
+          "alt": "A river called “Sangam” is shown in the background with the Peepa bridge.",
+          "type": "2 Days / 4 Nights",
+          "para": "Here are the two-day tour package details",
+          "link": "prayagraj-tour-package"
+        },
+        {
+          "id": 4,
+          "heading": "Bodhgaya Tour Package- Get Rs. 1000 Off!",
+          "image": "bodhgaya.webp",
+          "alt": "A statue of Lord Buddha in sitting position is shown.",
+          "type": "2 Days / 4 Nights",
+          "para": "Here are the two-day tour package details",
+          "link": "bodhgaya-tour-package"
+        }
+      ]
+    }
+  ]
+}

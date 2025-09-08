@@ -1,0 +1,49 @@
+[
+    {
+        "home":{
+            "title":"Nothing Better than Creating Moments",
+            "para":"Discover Sacred Journeys with Sweet Trip – Your Trusted Tour Operator in Varanasi"
+        },
+        "about":{
+            "title":"About Us"
+        },
+        "carService":{
+            "title":"Rental Cars for Every Occasion",
+            "para":"From Intercity to Intracity- A Fleet of Hygienic & Spacious Cabs & Taxis in Varanasi for All Travelling Needs"
+        },
+        "boatRide":{
+            "title":"Boat Ride"
+        },
+        "hireDriver":{
+            "title":"Hire Driver"
+        },
+        "hotelBooking":{
+            "title":"Hotel Booking"
+        },
+        "tourPackage":{
+            "title":"Tour Package",
+            "para":"Get Upto 1000 Off in 4 Packages"
+        },
+        "contact":{
+            "title":"Contact Us"
+        },
+        "termsConditions":{
+            "title":"Terms & Conditions"
+        },
+        "policy":{
+            "title":"Privacy & Policy"
+        },
+        "refundPolicy":{
+            "title":"Refund & Cancellation Policy"
+        },
+        "faq":{
+            "title":"Faq"
+        },
+        "blog":{
+            "title":"Blog"
+        },
+        "error":{
+            "title":"Page not found"
+        }
+    }
+]
